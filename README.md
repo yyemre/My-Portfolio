@@ -21,13 +21,10 @@ Now working both in private sector and own projects. Continue gaining experience
 
 ## Projects 
 
+ ### 2018
  
-
-### 2018 
-
-
-
-#### Bax Game - https://store.steampowered.com/app/1064590/BAX/  
+<details>
+ <summary> Bax Game - https://store.steampowered.com/app/1064590/BAX/ </summary>
 
  ![Bax_01](https://user-images.githubusercontent.com/91455019/201250455-0728949a-b148-4455-847c-4ca9d19ad346.jpg)
 
@@ -36,13 +33,14 @@ Now working both in private sector and own projects. Continue gaining experience
 Bax is a block-breaker pc game. Made this game to experience every aspect of making a game to steam. Targeted players that play casual games for gain steam achievements with cool visuals. Made this game from scratch. Take part as solo programmer. Used Unity and C#. First published project. 
 
 
+ </details>
  
-
-### 2019 
-
+ ### 2019
  
+<details>
+ <summary> Anvil Visualization Platform  </summary>
 
-#### Anvil Visualization Platform 
+
 <img src="https://user-images.githubusercontent.com/91455019/201250651-a7ab6d3c-fa48-49b3-b794-52f9e17355b2.jpeg" alt="drawing" width="200"/>  <img src="https://user-images.githubusercontent.com/91455019/201250657-8e557964-7508-4a37-b9f2-51bf97ccd886.jpeg" alt="drawing" width="200"/>
 
 
@@ -68,13 +66,14 @@ This project made for exposition attenders to represent their product with augme
 - Worked with AR Markers. 
 - Worked with Unity animations. 
 
- 
+ </details>
 
 ### 2020 
 
- 
+ <details>
+ <summary>  Rehber AR   </summary>
 
-#### Rehber AR 
+
 
  [![AR Rehber](https://img.youtube.com/vi/AFmK9gy8NFY/0.jpg)](https://www.youtube.com/watch?v=AFmK9gy8NFY "Click To Watch Video")<img src="https://img.icons8.com/color/48/null/youtube-play.png"/>
 
@@ -98,11 +97,13 @@ Rehber AR is a free-lance project made for museum presentation. I took motion ca
 
  [![Mocap Processed](https://img.youtube.com/vi/DbhsOskZW0A/0.jpg)](https://www.youtube.com/watch?v=DbhsOskZW0A "Click To Watch Video")<img src="https://img.icons8.com/color/48/null/youtube-play.png"/>
 
+ </details>
+ 
 ### 2021 
 
- 
+ <details>
+ <summary>  AR Tiger    </summary>
 
-#### AR Tiger 
 
  [![AR Rehber](https://img.youtube.com/vi/iPZ9lgKwd8Y/0.jpg)](https://www.youtube.com/watch?v=iPZ9lgKwd8Y "Click To Watch Video")<img src="https://img.icons8.com/color/48/null/youtube-play.png"/>
 
@@ -117,13 +118,13 @@ AR Tiger is a game made for interview case. Used Unity and AR Core. Created as d
 - Worked with surface detection. 
 - Improved in Doğuş Teknoloji. 
 
- 
+ </details>
 
 ### 2022 
 
- 
+ <details>
+ <summary>  Fortrex Color Duels    </summary>
 
-#### Fortrex Color Duels 
 
  
 
@@ -136,11 +137,11 @@ Fortrex Color Duels is a deprecated project which developed as p2e blockchain ga
 - Added 3 type of in-game adds. 
 - Added in-game purchase system. 
 
- 
+ </details>
 
-#### Runner Game 
 
- 
+ <details>
+ <summary>  Runner Game     </summary>
 
 Runner Game is one of progressed game I worked as developer and designer. Developed 3 mechanics and ending animation. Jump mechanic not shown below. Used unity to make game. 
 
@@ -165,6 +166,7 @@ Runner Game Enging
 
  [![AR Rehber](https://img.youtube.com/vi/sFPtqRW8os0/0.jpg)](https://www.youtube.com/watch?v=sFPtqRW8os0 "Click To Watch Video")<img src="https://img.icons8.com/color/48/null/youtube-play.png"/>
 
+ </details>
  
 <br>
 
