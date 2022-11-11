@@ -52,10 +52,14 @@ Anvil is an Augmented Reality group project that improve construction processes.
 - Used model optimization methods. 
 - Created easy model implementation. 
 - Created custom AR ray system which used all of my following projects. 
+ </details>
+ 
+<details>
+ <summary>AR Electric Car Project  </summary>
+ 
 
-#### AR Electric Car Project 
-
-[![AR Electric Car](https://i9.ytimg.com/vi_webp/L72n6RvPvPY/mq1.webp?sqp=CIDstpsG-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AKKAgwIABABGH8gIygTMA8=&rs=AOn4CLC0P0Ypss_D88sXeem9CIbkqRwFQA)](https://youtu.be/L72n6RvPvPY "Click To Watch Video")<img src="https://img.icons8.com/color/48/null/youtube-play.png"/>
+[![AR Electric Car](https://i9.ytimg.com/vi_webp/L72n6RvPvPY/mq1.webp?sqp=CIDstpsG-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AKKAgwIABABGH8gIygTMA8=&rs=AOn4CLC0P0Ypss_D88sXeem9CIbkqRwFQA)](https://youtu.be/L72n6RvPvPY "Click To Watch Video")
+<a href="https://youtu.be/L72n6RvPvPY"><img src="https://img.icons8.com/color/48/null/youtube-play.png"/></a>
 
 
 This project made for exposition attenders to represent their product with augmented reality.  Made several specialized variations of project to customers. Worked as only programmer. Used Unity and Vuforia Engine tools to make. Coded in C#. 
@@ -75,7 +79,8 @@ This project made for exposition attenders to represent their product with augme
 
 
 
- [![AR Rehber](https://img.youtube.com/vi/AFmK9gy8NFY/0.jpg)](https://www.youtube.com/watch?v=AFmK9gy8NFY "Click To Watch Video")<img src="https://img.icons8.com/color/48/null/youtube-play.png"/>
+ [![AR Rehber](https://img.youtube.com/vi/AFmK9gy8NFY/0.jpg)](https://www.youtube.com/watch?v=AFmK9gy8NFY "Click To Watch Video")
+<a href="https://www.youtube.com/watch?v=AFmK9gy8NFY"><img src="https://img.icons8.com/color/48/null/youtube-play.png"/></a>
 
 Rehber AR is a free-lance project made for museum presentation. I took motion capture actor and developer role in project. Characters animations made with a mocap device. I acted as a child with motion capture sensors and it turned to animations. I was one of developers in the project as well. Mocap process videos shown below. 
 
@@ -90,12 +95,14 @@ Rehber AR is a free-lance project made for museum presentation. I took motion ca
  
 ##### Mocap Raw 
 
- [![Mocap Raw](https://img.youtube.com/vi/uNKVJutLWIo/0.jpg)](https://www.youtube.com/watch?v=uNKVJutLWIo "Click To Watch Video")<img src="https://img.icons8.com/color/48/null/youtube-play.png"/>
+ [![Mocap Raw](https://img.youtube.com/vi/uNKVJutLWIo/0.jpg)](https://www.youtube.com/watch?v=uNKVJutLWIo "Click To Watch Video")
+<a href="https://www.youtube.com/watch?v=uNKVJutLWIo"><img src="https://img.icons8.com/color/48/null/youtube-play.png"/></a>
 
 
 ##### Mocap Processed 
 
- [![Mocap Processed](https://img.youtube.com/vi/DbhsOskZW0A/0.jpg)](https://www.youtube.com/watch?v=DbhsOskZW0A "Click To Watch Video")<img src="https://img.icons8.com/color/48/null/youtube-play.png"/>
+ [![Mocap Processed](https://img.youtube.com/vi/DbhsOskZW0A/0.jpg)](https://www.youtube.com/watch?v=DbhsOskZW0A "Click To Watch Video")
+ <a href="https://www.youtube.com/watch?v=DbhsOskZW0A"><img src="https://img.icons8.com/color/48/null/youtube-play.png"/></a>
 
  </details>
  
@@ -105,7 +112,8 @@ Rehber AR is a free-lance project made for museum presentation. I took motion ca
  <summary>  AR Tiger    </summary>
 
 
- [![AR Rehber](https://img.youtube.com/vi/iPZ9lgKwd8Y/0.jpg)](https://www.youtube.com/watch?v=iPZ9lgKwd8Y "Click To Watch Video")<img src="https://img.icons8.com/color/48/null/youtube-play.png"/>
+ [![AR Rehber](https://img.youtube.com/vi/iPZ9lgKwd8Y/0.jpg)](https://www.youtube.com/watch?v=iPZ9lgKwd8Y "Click To Watch Video")
+ <a href="https://www.youtube.com/watch?v=iPZ9lgKwd8Y"><img src="https://img.icons8.com/color/48/null/youtube-play.png"/></a>
 
 
 
@@ -156,15 +164,18 @@ Runner Game is one of progressed game I worked as developer and designer. Develo
 
 Runner Game Color Changing
 
- [![AR Rehber](https://img.youtube.com/vi/WGnphnrfqi4/0.jpg)](https://www.youtube.com/watch?v=WGnphnrfqi4 "Click To Watch Video")<img src="https://img.icons8.com/color/48/null/youtube-play.png"/>
+ [![AR Rehber](https://img.youtube.com/vi/WGnphnrfqi4/0.jpg)](https://www.youtube.com/watch?v=WGnphnrfqi4 "Click To Watch Video")
+ <a href="https://www.youtube.com/watch?v=WGnphnrfqi4"><img src="https://img.icons8.com/color/48/null/youtube-play.png"/></a>
 
 Runner Game Invisibility
 
- [![AR Rehber](https://img.youtube.com/vi/rvDhIL_A9NU/0.jpg)](https://www.youtube.com/watch?v=rvDhIL_A9NU "Click To Watch Video")<img src="https://img.icons8.com/color/48/null/youtube-play.png"/>
+ [![AR Rehber](https://img.youtube.com/vi/rvDhIL_A9NU/0.jpg)](https://www.youtube.com/watch?v=rvDhIL_A9NU "Click To Watch Video")
+ <a href="https://www.youtube.com/watch?v=rvDhIL_A9NU"><img src="https://img.icons8.com/color/48/null/youtube-play.png"/></a>
 
 Runner Game Enging
 
- [![AR Rehber](https://img.youtube.com/vi/sFPtqRW8os0/0.jpg)](https://www.youtube.com/watch?v=sFPtqRW8os0 "Click To Watch Video")<img src="https://img.icons8.com/color/48/null/youtube-play.png"/>
+ [![AR Rehber](https://img.youtube.com/vi/sFPtqRW8os0/0.jpg)](https://www.youtube.com/watch?v=sFPtqRW8os0 "Click To Watch Video")
+ <a href="https://www.youtube.com/watch?v=sFPtqRW8os0"><img src="https://img.icons8.com/color/48/null/youtube-play.png"/></a>
 
  </details>
  
