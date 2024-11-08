@@ -178,7 +178,27 @@ Runner Game Ending
  <a href="https://www.youtube.com/watch?v=sFPtqRW8os0"><img src="https://img.icons8.com/color/48/null/youtube-play.png"/></a>
 
  </details>
- 
+
+ ### 2024
+
+ <details>
+ <summary>  sAIfer    </summary>
+
+
+ [![sAIfer](https://i.ytimg.com/an_webp/xtN71OIsNHg/mqdefault_6s.webp?du=3000&sqp=CKCJurkG&rs=AOn4CLDZmnuSDge2rFJd0WsMf3hDg2v1Ug)](https://www.youtube.com/watch?v=xtN71OIsNHg "Click To Watch Video")
+ <a href="https://www.youtube.com/watch?v=xtN71OIsNHg"><img src="https://img.icons8.com/color/48/null/youtube-play.png"/></a>
+
+
+
+sAIfer is an home safety application using AI and XR. Built for a hackathon in Istanbul called XR Hack. After winning compatition with demo started developing as complete project in Mind Drawer. 
+
+- Took part in ideation phase +50 hours.
+- Lead the team in hackathon. Then continue developing project.
+- Prepared base project for Meta Quest.
+- Integrated AI, Passthrough, TTS and interactions.
+- Dive into deep features of ChatGPT.
+- Used Meta Presence Platform.
+ </details>
 <br>
 
 ## Connect with me ☕ :
