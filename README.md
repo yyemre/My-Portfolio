@@ -206,7 +206,7 @@ sAIfer is an home safety application using AI and XR. Built for a hackathon in I
 <br>
 
 [![@yyemre](https://img.icons8.com/fluency/48/000000/linkedin.png "@yyemre")](https://www.linkedin.com/in/yunus-emre-yalçınkaya/) 
-[![@yyemre](https://img.icons8.com/?size=100&id=OumT4lIcOllS&format=png&color=000000)](mailto:yalcinkayayunusemre@gmail.com) 
+[![@yyemre](https://img.icons8.com/?size=100&id=7rhqrO588QcU&format=png&color=000000)](mailto:yalcinkayayunusemre@gmail.com) 
 
 <br>
 
