@@ -13,18 +13,18 @@ I take pride in my organizational skills and am committed to fostering a structu
 
 <h4>Professional Experience</h4>
 
-Meyer Group: I worked as a back-end and SQL developer for one year.
-Doğuş Teknoloji: I led a game development team of 8-10 members for nine months and at the same time worked as a metaverse developer.
-Magnolia Games: I joined as a developer and contributed to multiple projects until the studio closed.
+Meyer Group: I worked as a back-end and SQL developer for one year.<br>
+Doğuş Teknoloji: I led a game development team of 8-10 members for nine months and at the same time worked as a metaverse developer.<br>
+Magnolia Games: I joined as a developer and contributed to multiple projects until the studio closed.<br>
 Mind Drawer: I had worked on an industrial B2B project in three versions: an AR glasses application and mobile apps for both Android and iOS, all developed in Unity. Currently i am working on a sAIfer project that won XR Hack Istanbul. You can check it on projects section.
 
 <h4>Independent Projects</h4>
 
-Bax Game: My first published project on Steam, developed in Unity, where I served as the sole programmer.
-ARRA Project: As a finalist in the ICC 2019 in Martigny, Switzerland, I participated in a month-long entrepreneurship marathon.
-ANVIL Project: This project made it through two stages of the TUBİTAK Bigg program before I decided to set it aside.
-Additionally, I have worked as a freelance AR developer, creating promotional applications for companies exhibiting at trade shows. One of these projects is showcased below.
-Pedal Project: In early 2022, I re-entered the TUBİTAK Bigg program with a social initiative called Pedal, which also advanced through two stages.
+Bax Game: My first published project on Steam, developed in Unity, where I served as the sole programmer.<br>
+ARRA Project: As a finalist in the ICC 2019 in Martigny, Switzerland, I participated in a month-long entrepreneurship marathon.<br>
+ANVIL Project: This project made it through two stages of the TUBİTAK Bigg program before I decided to set it aside.<br>
+Additionally, I have worked as a freelance AR developer, creating promotional applications for companies exhibiting at trade shows. One of these projects is showcased below.<br>
+Pedal Project: In early 2022, I re-entered the TUBİTAK Bigg program with a social initiative called Pedal, which also advanced through two stages.<br>
 
 Currently, I am balancing both my private sector role and independent projects, continuously expanding my experience, generating income, and finding solutions to complex problems.
 
