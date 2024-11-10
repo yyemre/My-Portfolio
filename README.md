@@ -11,14 +11,14 @@ I’m also an avid gamer, with extensive experience across both competitive and 
 
 I take pride in my organizational skills and am committed to fostering a structured work environment for my team. I am a strong advocate of using methodologies like Scrum and Kanban to enhance productivity. When it comes to teamwork, I value compatibility and collaboration over pure technical skills.
 
-#Professional Experience
+<h1>#Professional Experience</h1>
 
 Meyer Group: I worked as a back-end and SQL developer for one year.
 Doğuş Teknoloji: I led a game development team of 8-10 members for nine months and at the same time worked as a metaverse developer.
 Magnolia Games: I joined as a developer and contributed to multiple projects until the studio closed.
 Mind Drawer: I had worked on an industrial B2B project in three versions: an AR glasses application and mobile apps for both Android and iOS, all developed in Unity. Currently i am working on a sAIfer project that won XR Hack Istanbul. You can check it on projects section.
 
-#Independent Projects
+<h3>Independent Projects</h3>
 
 Bax Game: My first published project on Steam, developed in Unity, where I served as the sole programmer.
 ARRA Project: As a finalist in the ICC 2019 in Martigny, Switzerland, I participated in a month-long entrepreneurship marathon.
