@@ -68,7 +68,7 @@ Anvil is an Augmented Reality group project that improve construction processes.
  <summary>AR Electric Car Project  </summary>
  
 
-[![AR Electric Car](https://i9.ytimg.com/vi_webp/L72n6RvPvPY/mq3.webp?sqp=CKyDurkG-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AKKAgwIABABGGUgVSg_MA8=&rs=AOn4CLAQvYFwMoYXTT2XTyZbqu6MHU-kxQ)](https://youtu.be/L72n6RvPvPY "Click To Watch Video")
+[![AR Electric Car](https://i9.ytimg.com/vi/L72n6RvPvPY/mqdefault.jpg?sqp=CLyEw7kG-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC4AKKAgwIABABGH8gIygTMA8=&rs=AOn4CLD5MkuFEp3om-f_rTsh63wOq634-A)](https://youtu.be/L72n6RvPvPY "Click To Watch Video")
 <a href="https://youtu.be/L72n6RvPvPY"><img src="https://img.icons8.com/color/48/null/youtube-play.png"/></a>
 
 
