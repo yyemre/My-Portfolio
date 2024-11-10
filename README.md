@@ -5,20 +5,30 @@
 
  
 
-My passion is creating new ideas and forging them as a developer. Biggest reward for me is see them working or solving a problem. Since 2018 running behind ideas that believed to create value. On the journey i participate several competitions and acceleration program like TUBİTAK Bigg Program and International Create Challenge – Martigny. I’m developing games and AR-VR projects as professional programmer. My biggest tool is Unity.  
+I am a developer driven by a passion for creating new ideas and bringing them to life. For me, the greatest reward is seeing these ideas come to fruition, solving real problems, and adding value. Since 2018, I have been dedicated to pursuing ideas that I believe can make a difference. Along this journey, I have participated in several competitions and acceleration programs, including the TUBİTAK Bigg Program and the International Create Challenge (ICC) in Martigny. As a professional developer, I specialize in creating games and AR/VR projects, with Unity as my primary tool.
 
-I’m a gamer as well. Playing both competitive and casual games. I have huge gaming experience on pc since Windows 95, also spend lot of time on browser games. This helps very much to creating game ideas on mobile. 
+I’m also an avid gamer, with extensive experience across both competitive and casual gaming. My journey with PC games dates back to the days of Windows 95, and I’ve spent considerable time in browser games as well. This background has been invaluable for sparking creative ideas for mobile game development.
 
-I’m proud of myself for working organized and valued this on my teammates. Love using scrum and kanban. I prefer working with compatible people to not compatible people even if they are not very good at their job. 
+I take pride in my organizational skills and am committed to fostering a structured work environment for my team. I am a strong advocate of using methodologies like Scrum and Kanban to enhance productivity. When it comes to teamwork, I value compatibility and collaboration over pure technical skills.
 
-Private sector experience: I worked at Meyer Group as back-end and SQL developer for 1 year. Then lead a game development group (8 to 10 people)  at Doğuş Teknoloji for 9 months; worked as a metaverse developer for 6 months as well. Then joined Magnolia Games as developer. 
+Professional Experience
 
-Indie experience: My first published project is Bax Game on Steam. Made with unity and i was only programmer on project. Later i ranked as finalist on competition called ICC 2019 – Martigny at Switzerland with ARRA Project. Travelled to Martigny for one month entrepreneurship marathon. Later that year i participated TUBİTAK Bigg program with ANVİL Project. Passed 2 stages then put project aside. After this project worked free-lance AR developer. Created promotion apps for companies that attending expositions. One of my project shown below. Beginning of 2022 participated TUBİTAK Bigg program again with a social project called Pedal. Passed 2 stages then put project aside. 
+Meyer Group: I worked as a back-end and SQL developer for one year.
+Doğuş Teknoloji: I led a game development team of 8-10 members for nine months and at the same time worked as a metaverse developer.
+Magnolia Games: I joined as a developer and contributed to multiple projects until the studio closed.
+Mind Drawer: I had worked on an industrial B2B project in three versions: an AR glasses application and mobile apps for both Android and iOS, all developed in Unity. Currently i am working on a sAIfer project that won XR Hack Istanbul. You can check it on projects section.
 
-Now working both in private sector and own projects. Continue gaining experience, making money and solving problems. 
+Independent Projects
+
+Bax Game: My first published project on Steam, developed in Unity, where I served as the sole programmer.
+ARRA Project: As a finalist in the ICC 2019 in Martigny, Switzerland, I participated in a month-long entrepreneurship marathon.
+ANVIL Project: This project made it through two stages of the TUBİTAK Bigg program before I decided to set it aside.
+Additionally, I have worked as a freelance AR developer, creating promotional applications for companies exhibiting at trade shows. One of these projects is showcased below.
+Pedal Project: In early 2022, I re-entered the TUBİTAK Bigg program with a social initiative called Pedal, which also advanced through two stages.
+
+Currently, I am balancing both my private sector role and independent projects, continuously expanding my experience, generating income, and finding solutions to complex problems.
 
  
-
 ## Projects 
 
  ### 2018
