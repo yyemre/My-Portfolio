@@ -16,15 +16,15 @@ I take pride in my organizational skills and am committed to fostering a structu
 Meyer Group: I worked as a back-end and SQL developer for one year.<br>
 Doğuş Teknoloji: I led a game development team of 8-10 members for nine months and at the same time worked as a metaverse developer.<br>
 Magnolia Games: I joined as a developer and contributed to multiple projects until the studio closed.<br>
-Mind Drawer: I had worked on an industrial B2B project in three versions: an AR glasses application and mobile apps for both Android and iOS, all developed in Unity. Currently i am working on a sAIfer project that won XR Hack Istanbul. You can check it on projects section.
+Mind Drawer: I had worked on an industrial B2B project in three versions: an AR glass application and mobile apps for both Android and iOS, all developed in Unity. Currently i am working on a sAIfer project that won XR Hack Istanbul. You can check it on projects section.
 
 <h4>Independent Projects</h4>
 
 Bax Game: My first published project on Steam, developed in Unity, where I served as the sole programmer.<br>
 ARRA Project: As a finalist in the ICC 2019 in Martigny, Switzerland, I participated in a month-long entrepreneurship marathon.<br>
 ANVIL Project: This project made it through two stages of the TUBİTAK Bigg program before I decided to set it aside.<br>
-Additionally, I have worked as a freelance AR developer, creating promotional applications for companies exhibiting at trade shows. One of these projects is showcased below.<br>
 Pedal Project: In early 2022, I re-entered the TUBİTAK Bigg program with a social initiative called Pedal, which also advanced through two stages.<br>
+Additionally, I have worked as a freelance AR developer, creating promotional applications for companies exhibiting at trade shows. One of these projects is showcased below.<br>
 
 Currently, I am balancing both my private sector role and independent projects, continuously expanding my experience, generating income, and finding solutions to complex problems.
 
@@ -188,11 +188,31 @@ Runner Game Ending
  <a href="https://www.youtube.com/watch?v=sFPtqRW8os0"><img src="https://img.icons8.com/color/48/null/youtube-play.png"/></a>
 
  </details>
+ 
+ ### 2023
 
+ <details>
+ <summary>  B2B AR Application  </summary>
+
+ <img src="https://github.com/user-attachments/assets/de16ebb3-79d6-47ae-8557-9852e9143133" alt="drawing" width="500"/> <img src="https://github.com/user-attachments/assets/27d9237a-4d9d-4d49-b27a-8d1f9ee66c06" alt="drawing" width="500"/>
+
+This project was developed for a company looking to visualize temperature data through a multi-platform application suite. I created three versions of the app: an AR glasses application, an Android app, and an iOS app, serving as the sole Unity developer on the team.
+
+-Developed both smart glasses and mobile versions with a unified data management approach.
+-Designed and implemented the logic for interactive data visualization, including custom graphing features and handling of temperature data.
+-Prototyped the application across various XR glasses and finally chosed voice-controlled RealWear Navigator 520.
+-Integrated multiple APIs to support data transfer and connectivity.
+-Worked extensively with hardware components. 
+-Leveraged Android and iOS native libraries to enhance mobile-specific functionalities.
+-Built connections for Firebase integration.
+  
+ </details>
+ 
  ### 2024
 
  <details>
  <summary>  sAIfer    </summary>
+
 
 
  [![sAIfer](https://i.ytimg.com/an_webp/xtN71OIsNHg/mqdefault_6s.webp?du=3000&sqp=CMjpwrkG&rs=AOn4CLABpC-1de89_XKtlI9SmY37-QAFUQ)](https://www.youtube.com/watch?v=xtN71OIsNHg "Click To Watch Video")
