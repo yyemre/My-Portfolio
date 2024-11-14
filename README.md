@@ -198,13 +198,13 @@ Runner Game Ending
 
 This project was developed for a company looking to visualize temperature data through a multi-platform application suite. I created three versions of the app: an AR glasses application, an Android app, and an iOS app, serving as the sole Unity developer on the team.
 
--Developed both smart glasses and mobile versions with a unified data management approach.
--Designed and implemented the logic for interactive data visualization, including custom graphing features and handling of temperature data.
--Prototyped the application across various XR glasses and finally chosed voice-controlled RealWear Navigator 520.
--Integrated multiple APIs to support data transfer and connectivity.
--Worked extensively with hardware components. 
--Leveraged Android and iOS native libraries to enhance mobile-specific functionalities.
--Built connections for Firebase integration.
+- Developed both smart glasses and mobile versions with a unified data management approach.
+- Designed and implemented the logic for interactive data visualization, including custom graphing features and handling of temperature data.
+- Prototyped the application across various XR glasses and finally chosed voice-controlled RealWear Navigator 520.
+- Integrated multiple APIs to support data transfer and connectivity.
+- Worked extensively with hardware components. 
+- Leveraged Android and iOS native libraries to enhance mobile-specific functionalities.
+- Built connections for Firebase integration.
   
  </details>
  
